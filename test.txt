@@ -8,8 +8,8 @@ Cara Convert image ke rttex :
 5. File RTTEX langsung ke-download
 
 Cara Membuat Tombol di Chat:
-- Format: <button href="URL_TUJUAN" class="buttonfromai">TEKS_TOMBOL</button>
-- Contoh: <button href="https://gtpstools.vercel.com" class="buttonfromai">Buka GTPSTools</button>
+- Format: /n<button href="URL_TUJUAN" class="buttonfromai">TEKS_TOMBOL</button>/n
+- Contoh: /n<button href="https://gtpstools.vercel.com" class="buttonfromai">Buka GTPSTools</button>/n
 - Tombol akan muncul otomatis dalam chat ketika format ini digunakan
 - saat membuat tombol jangan pake ` atau yang mengganggu lainnya, cukup spasi lalu format lalu spasi lagi agar natural
 
