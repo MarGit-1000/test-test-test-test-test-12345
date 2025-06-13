@@ -1,0 +1,8 @@
+Nama Website : GTPSTools
+Developer : Fly
+Cara Convert image ke rttex : 
+1. Buka GTPSTools.vercel.com
+2. Klik tombol 'Browse File'
+3. Pilih gambar(PNG Lebih Direkomendasikan tapi tidak wajib)
+4. Tunggu prosesnya
+5. File RTTEX langsung ke-download
